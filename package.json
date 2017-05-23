@@ -1,0 +1,20 @@
+{
+  "name": "api-challange",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browser-language": "^1.6.0",
+    "express": "^4.15.2",
+    "express-locale": "^1.0.1",
+    "express-useragent": "^1.0.7",
+    "moment": "^2.18.1",
+    "typeof": "^1.0.0"
+  }
+}
